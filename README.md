@@ -3,12 +3,12 @@ Embedded Linux is nothing but the usage of Linux kernel and other open-source so
 
 
 Embedded Linux operating process includes:
-    Boot Loader
-    Device tree
-    Root file systems
-    System program
-    Applications
-    Kernel
+    Boot Loader,
+    Device tree,
+    Root file systems,
+    System program,
+    Applications,
+    Kernel,
     Cross development toolchain.
     
     
